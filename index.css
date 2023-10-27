@@ -1,0 +1,382 @@
+.image-1-icon {
+  position: relative;
+  width: 161px;
+  height: 122px;
+  object-fit: cover;
+}
+.collaborative-workshop {
+  flex: 1;
+  position: relative;
+}
+.collaborative-workshop-wrapper,
+.head {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  min-width: 100px;
+}
+.head {
+  flex-wrap: wrap;
+  padding: var(--padding-31xl);
+  box-sizing: border-box;
+  gap: 30px;
+  min-width: 200px;
+  min-height: 200px;
+  font-size: 48px;
+}
+.shaping-responsible-ai {
+  position: relative;
+  display: inline-block;
+  min-width: 200px;
+}
+.workshop-title-child {
+  position: relative;
+  border-top: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 556.8px;
+  height: 1px;
+}
+.workshop-title {
+  align-self: stretch;
+  background-color: var(--color-whitesmoke);
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-31xl);
+  box-sizing: border-box;
+  gap: 20px;
+  min-width: 200px;
+  min-height: 200px;
+}
+.the-workshop-is {
+  margin-block-start: 0;
+  margin-block-end: 20px;
+}
+.considering-that-at {
+  margin: 0;
+}
+.the-workshop-is-container {
+  flex: 1;
+  position: relative;
+  white-space: pre-wrap;
+  display: inline-block;
+  min-width: 100px;
+  min-height: 100px;
+}
+.workshop-description {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-31xl) var(--padding-81xl);
+  box-sizing: border-box;
+  min-width: 200px;
+  min-height: 200px;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+  font-family: var(--font-arimo);
+}
+.group-child,
+.schedule {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.group-child {
+  top: 86.2px;
+  left: 41.1px;
+  width: 219.4px;
+  height: 1px;
+}
+.schedule-parent {
+  position: relative;
+  width: 294px;
+  height: 86.7px;
+}
+.schedule-title-inner {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.schedule-description,
+.schedule-title {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.schedule-title {
+  background-color: var(--color-whitesmoke);
+  align-items: center;
+  padding: var(--padding-31xl) 0;
+}
+.schedule-description {
+  align-items: flex-start;
+  padding: var(--padding-31xl) var(--padding-81xl);
+  box-sizing: border-box;
+  min-width: 200px;
+  min-height: 200px;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+  font-family: var(--font-arimo);
+}
+.local-and-date {
+  position: relative;
+  z-index: 0;
+}
+.frame-child {
+  position: absolute;
+  margin: 0 !important;
+  height: 0.5%;
+  width: calc(100% - 110px);
+  top: 76.75%;
+  right: 45.5px;
+  bottom: 22.75%;
+  left: 64.5px;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  z-index: 1;
+}
+.local-and-date-parent,
+.local-and-date-title {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  min-width: 200px;
+  min-height: 200px;
+}
+.local-and-date-parent {
+  position: relative;
+  gap: 10px;
+}
+.local-and-date-title {
+  align-self: stretch;
+  background-color: var(--color-whitesmoke);
+  padding: var(--padding-31xl) 0;
+  box-sizing: border-box;
+}
+.november-13-2023-container1 {
+  line-break: anywhere;
+  width: 100%;
+}
+.november-13-2023-container {
+  position: relative;
+  display: flex;
+  align-items: center;
+  width: 343px;
+  height: 274px;
+  flex-shrink: 0;
+}
+.local-and-time-description {
+  align-self: stretch;
+  background-color: var(--color-white);
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-31xl);
+  font-size: 30px;
+  color: #525252;
+  font-family: var(--font-arimo);
+}
+.organizers {
+  position: relative;
+  display: inline-block;
+  width: 1303px;
+  height: 92px;
+  flex-shrink: 0;
+}
+.frame-item {
+  position: relative;
+  border-top: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 295px;
+  height: 1px;
+}
+.organizers-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 6px;
+}
+.ralf-child {
+  position: absolute;
+  top: 0;
+  left: 7.8px;
+  width: 300px;
+  height: 300px;
+  object-fit: cover;
+}
+.prof-dr-ralf,
+.professor-computing-education-container {
+  position: absolute;
+  height: 16.74%;
+  width: calc(100% - 16.8px);
+  top: 83.26%;
+  left: 0;
+  display: inline-block;
+}
+.prof-dr-ralf {
+  height: 11.37%;
+  width: calc(100% - 77.8px);
+  top: 72.88%;
+  left: 44.3px;
+  font-size: var(--font-size-xl);
+  color: var(--color-dimgray-300);
+  text-align: left;
+}
+.ralf {
+  position: relative;
+  width: 307.8px;
+  height: 466px;
+}
+.kamilla-child {
+  position: absolute;
+  width: calc(100% - 13.1px);
+  top: 0;
+  right: 0;
+  left: 13.1px;
+  max-width: 100%;
+  overflow: hidden;
+  height: 300px;
+  object-fit: cover;
+}
+.kamilla-tenrio,
+.researcher-computing-education-container {
+  position: absolute;
+  height: 16.74%;
+  width: calc(100% - 7.4px);
+  top: 83.28%;
+  left: 0;
+  display: inline-block;
+}
+.kamilla-tenrio {
+  height: 10.8%;
+  width: calc(100% - 102px);
+  top: 72.78%;
+  left: 67px;
+  font-size: var(--font-size-xl);
+  color: var(--color-dimgray-300);
+  text-align: left;
+}
+.kamilla {
+  position: relative;
+  width: 313.1px;
+  height: 466.6px;
+}
+.screenshot-2022-10-09-at-1317 {
+  position: absolute;
+  top: 0;
+  left: 11.5px;
+  width: 272.6px;
+  height: 300px;
+  object-fit: cover;
+}
+.researcher-computing-education-container1,
+.uwe-lorenz {
+  position: absolute;
+  width: calc(100% - 3px);
+  top: 383.7px;
+  left: 0;
+  display: inline-block;
+  height: 78px;
+}
+.uwe-lorenz {
+  width: calc(100% - 159px);
+  top: 339.6px;
+  left: 95.9px;
+  font-size: var(--font-size-xl);
+  color: var(--color-dimgray-300);
+  text-align: left;
+  height: 35px;
+}
+.uwe {
+  position: relative;
+  width: 284px;
+  height: 461.7px;
+}
+.organizers-info {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-31xl);
+  box-sizing: border-box;
+  gap: 38px;
+  min-width: 200px;
+  min-height: 200px;
+  font-size: var(--font-size-mini);
+  color: var(--color-dimgray-100);
+  font-family: var(--font-arial);
+}
+.project-is-funded {
+  position: relative;
+  display: inline-block;
+  width: 216px;
+  height: 20px;
+  flex-shrink: 0;
+}
+.bmbf-logo-icon {
+  position: relative;
+  width: 204px;
+  height: 143px;
+  object-fit: cover;
+}
+.berlin-ressortlogo-icon,
+.eu-logo-icon {
+  position: relative;
+  width: 240.4px;
+  height: 133.9px;
+  object-fit: cover;
+}
+.berlin-ressortlogo-icon {
+  width: 251.4px;
+  height: 87.8px;
+}
+.ai-workshop-website,
+.sponsors {
+  display: flex;
+  align-items: center;
+  min-width: 200px;
+  min-height: 200px;
+}
+.sponsors {
+  align-self: stretch;
+  background-color: var(--color-whitesmoke);
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  padding: var(--padding-31xl);
+  box-sizing: border-box;
+  text-align: left;
+  font-size: 16px;
+  color: #6e6e6e;
+  font-family: var(--font-arial);
+}
+.ai-workshop-website {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  overflow: hidden;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: 13px;
+  text-align: center;
+  font-size: var(--font-size-45xl);
+  color: var(--color-dimgray-200);
+  font-family: var(--font-inter);
+}
