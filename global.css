@@ -10,6 +10,39 @@ body {
   --font-arimo: Arimo;
 
   /* font sizes */
+  --font-size-base: 16px;
+  --font-size-xl: 20px;
+  --font-size-mini: 15px;
+  --font-size-29xl: 48px;
+  --font-size-21xl: 40px;
+  --font-size-7xl: 26px;
+  --font-size-lg: 18px;
+  --font-size-sm: 14px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-whitesmoke: #f5f5f5;
+  --color-dimgray-100: #6f6f6f;
+  --color-dimgray-200: #5b5b5b;
+  --color-dimgray-400: #525252;
+  --color-dimgray-300: #4f4f4f;
+
+  /* Paddings */
+  --padding-31xl: 50px;
+  --padding-81xl: 100px;
+}
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-arial: Arial;
+  --font-inter: Inter;
+  --font-arimo: Arimo;
+
+  /* font sizes */
   --font-size-xl: 20px;
   --font-size-mini: 15px;
   --font-size-45xl: 64px;
