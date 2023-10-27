@@ -46,13 +46,12 @@
   margin-block-start: 0;
   margin-block-end: 40px;
 }
-.considering-that-at {
+.considering-that-there {
   margin: 0;
 }
 .the-workshop-is-container {
   flex: 1;
   position: relative;
-  white-space: pre-wrap;
   display: inline-block;
   min-width: 100px;
   min-height: 100px;
@@ -108,11 +107,11 @@
   align-items: center;
   padding: var(--padding-31xl) 0;
 }
-.november-13-2023-container1 {
+.january-26-2023-container1 {
   line-break: anywhere;
   width: 100%;
 }
-.november-13-2023-container {
+.january-26-2023-container {
   position: relative;
   display: flex;
   align-items: center;
@@ -328,7 +327,7 @@
   .welcome-coffee-0930-container {
     font-size: var(--font-size-lg);
   }
-  .november-13-2023-container {
+  .january-26-2023-container {
     font-size: 22px;
   }
   .organizers {
@@ -355,7 +354,7 @@
   .welcome-coffee-0930-container {
     font-size: var(--font-size-sm);
   }
-  .november-13-2023-container {
+  .january-26-2023-container {
     font-size: var(--font-size-base);
   }
   .organizers {
